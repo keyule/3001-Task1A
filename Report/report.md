@@ -3,7 +3,7 @@
 - Student Number: A0211495H E0493826
 - Github: https://github.com/keyule/3001-Task1A
 
-*This report is written in markdown and located at:*   
+*View the markdown version for better formatting at:*   
 *https://github.com/keyule/3001-Task1A/blob/main/Report/report.md* 
 
 ### Task 1.1
