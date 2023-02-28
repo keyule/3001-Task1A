@@ -4,6 +4,10 @@
 
 * [Report](Report/report.md)
 
+## Video
+
+* [gif](Report/video/output-gif.gif)
+
 ## Given Instructions
 
 Task1A is split into 3 parts. 
