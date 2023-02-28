@@ -1,7 +1,7 @@
 # TIC3001 Task 1A
 - Name: Ke Yule
 - Student Number: A0211495H E0493826
-- Github: 
+- Github: https://github.com/keyule/3001-Task1A
 
 ### Task 1.1
 #### Instructions
@@ -28,7 +28,7 @@ CMD [ "npm", "start" ]
 
 #### Screenshot 
 
-![Task 1A 1.1](#placeholder)
+>![Task 1A 1.1](https://github.com/keyule/3001-Task1A/blob/main/Report/Screenshots/Task1A1-1.jpg?raw=true)
 
 
 ### Task 1.2
@@ -60,7 +60,7 @@ COPY nginx.conf /etc/nginx/conf.d/
 
 #### Screenshot
 
-![Task 1A 1.2](#placeholder)
+>![Task 1A 1.2](https://github.com/keyule/3001-Task1A/blob/main/Report/Screenshots/Task1A1-2.jpg?raw=true)
 
 ### Task 1.3
 #### Instructions
@@ -104,4 +104,5 @@ services:
 
 #### Sreenshot
 
-![Task 1A 1.3](#placeholder)
+
+>![Task 1A 1.3](https://github.com/keyule/3001-Task1A/blob/main/Report/Screenshots/Task1A1-3.jpg?raw=true)
