@@ -6,7 +6,7 @@
 
 ## Video
 
-* [gif](Report/video/output-gif.gif)
+![gif](Report/video/output-gif.gif)
 
 ## Given Instructions
 
