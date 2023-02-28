@@ -1,5 +1,11 @@
 # TIC3001 Task1A
 
+## Report
+
+* [Report](Report/report.md)
+
+## Given Instructions
+
 Task1A is split into 3 parts. 
 
 Install [nodejs](https://nodejs.org/en/download/); select "Automatically install necessary tools ..." in the installation wizard.

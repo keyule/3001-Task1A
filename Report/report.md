@@ -3,6 +3,9 @@
 - Student Number: A0211495H E0493826
 - Github: https://github.com/keyule/3001-Task1A
 
+*This report is written in markdown and located at:*   
+*https://github.com/keyule/3001-Task1A/blob/main/Report/report.md* 
+
 ### Task 1.1
 #### Instructions
 1. Create docker file at /app/Dockerfile containing:
@@ -36,7 +39,7 @@ CMD [ "npm", "start" ]
 
 1. Create a nginx.conf file containing:
 
-```json
+```nginx
 server {
     listen 9001;
     server_name localhost;
@@ -68,7 +71,7 @@ COPY nginx.conf /etc/nginx/conf.d/
 1. Reuse the same Dockerfile for the node app
 2. Create a nginx.conf file in the nginx folder containing: 
 
-```json 
+```nginx
 events {}
 http {
   server {
@@ -100,7 +103,7 @@ services:
 
 4. `docker-compose up --build`
 
-*Note: I changed the port to port 3000 in index.js*
+*Note: I changed the port to 3000 in index.js*
 
 #### Sreenshot
 
